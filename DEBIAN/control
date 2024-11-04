@@ -1,0 +1,10 @@
+Package: {_pkgname}
+Version: {_pkgversion}
+Architecture: {_pkgarch}
+Multi-Arch: same
+Priority: optional
+Section: universe/libs
+Maintainer: LIU Hao <lh_mouse@126.com>
+Provides: libhttp-parser
+Description: HTTP Parser
+Homepage: https://github.com/lhmouse/http-parser
